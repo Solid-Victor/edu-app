@@ -15,7 +15,6 @@ nav{
     width: 100px;
 }
 nav ul{
-    border: 2px solid yellow;
     margin: 0;
     padding: 0;
 }
@@ -25,7 +24,6 @@ nav ul li {
     margin: 0px 20px;
     font-size: 16px;
     position: relative;
-    border: 2px solid red;
     height: 100%;
     /* padding: 4px 0; */
 

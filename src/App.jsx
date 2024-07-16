@@ -1,4 +1,4 @@
-import React, {useState} from "react";
+import {useState} from "react";
 import Navbar from "./components/Navbar/Navbar.jsx";
 import Hero from "./components/Hero/Hero.jsx";
 import Programs from "./components/programs/Programs.jsx";
@@ -37,4 +37,4 @@ const App = () => {
 
 export default App;
 // webform.com
-// react scroll
+// react scrolls  
